@@ -1,2 +1,2 @@
 # code
-Codes for programs solved in various competitions and hackerrank and hackerearth
+Machine learning course offered by Coursera. The Programming Exercises solutions
